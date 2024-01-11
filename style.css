@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bd-cricket {
+    display: flex;
+    width: 50%;
+}
+
+.half-width {
+    padding-left: 30px;
+
+}
+
+#picture {
+    width: 6px;
+    padding-bottom: 70px;
+    padding-left: 40px;
+
+
+}
+
+.BCB {
+    color: red;
+}
+
+.BCT {
+    color: green;
+}
+
+#font-big {
+    font-size: 50px;
+}
+
+.div {
+    text-shadow: 10px 10px 40px rgb(135, 139, 137);
+    color: orangered;
+}
+
+.bord {
+    color: rgb(255, 0, 0);
+}
+
+.sagor {
+    box-shadow: 10px 10px 50px gray;
+    padding: 10px;
+    border-radius: 9px;
+    border-left: 7px solid orangered;
+    background-color: bisque;
+}
+
+.margin {
+    box-shadow: 10px 10px 40px gray;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 9px;
+    border-left: solid 7px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 20px;
+
+}
